@@ -1,0 +1,66 @@
+.searchBox {
+    margin: 1rem;
+
+}
+
+.inputField {
+    margin: 0;
+    background-color: rgb(68, 68, 238);
+    color: white;
+    font-weight: 700;
+}
+
+.rightBorder {
+    border-radius: 7px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.border {
+    border-radius: 0;
+}
+
+.leftBorder {
+    border-radius: 7px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    color: white;
+    font-weight: 700;
+}
+
+.secondSearch {
+    margin: 0 1rem;
+    border: 2px solid  rgb(68, 68, 238);
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.component {
+    border-radius: 4px;
+    border: 1px solid blue;
+    padding: 0.3rem;
+    margin: 0.3rem 0;
+}
+
+.rating {
+    margin: 0 0.4rem;
+    border-radius: 7px;
+    background-color: white;
+    border: 1px solid blue;
+    color: grey;
+}
+
+.price {
+    border-radius: 7px;
+    background-color: white;
+    border: 1px solid blue;
+    color: grey;
+    margin:0;
+    padding: 0 auto;
+}
+
+.hotelName {
+    border-style: none;
+    outline: none;
+}

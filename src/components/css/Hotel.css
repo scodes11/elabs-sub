@@ -1,0 +1,10 @@
+.hotelList {
+    margin: 1rem;
+    border: 1px solid blue;
+    padding: 0.5rem;
+    overflow-y: scroll;
+    max-width: 470px;
+    background-color: #e4e6e6;
+    max-height: 400px;
+}
+
